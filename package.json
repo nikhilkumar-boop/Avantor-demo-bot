@@ -1,0 +1,9 @@
+{
+  "name": "aventur-demo-bot",
+  "version": "1.0.0",
+  "description": "Demo third-party chatbot for Webex Connect integration",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.19.2" }
+}
